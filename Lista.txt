@@ -1,3 +1,5 @@
 -laranja
 -maça
 -morango
+-Uva
+-Banana
